@@ -1,5 +1,11 @@
 # ObjectDetection
 
+# 詳細解説
+
+詳細な解説は以下の記事に書いています。
+
+https://qiita.com/sugiyama404/items/be1415903ba1f621f65e
+
 ## 動画について
 
 youtube8mの動画を再編集して使用しています。
